@@ -1,0 +1,7 @@
+{
+  "name": "MindFlow AI Teacher",
+  "description": "An advanced AI-powered learning assistant specializing in SSLC core curriculum with personalized pacing, voice interaction, and exam prediction analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
